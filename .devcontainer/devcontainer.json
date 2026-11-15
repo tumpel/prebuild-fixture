@@ -1,0 +1,4 @@
+{
+  "name": "prebuild-fixture",
+  "onCreateCommand": "npm run build"
+}
